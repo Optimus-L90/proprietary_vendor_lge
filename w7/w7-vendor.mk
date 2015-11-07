@@ -20,7 +20,6 @@ DEVICE_PACKAGE_OVERLAYS := vendor/lge/w7/overlay
 # Apps
 PRODUCT_PACKAGES += \
     com.qualcomm.location \
-    QuickBoot \
     qcrilmsgtunnel \
     shutdownlistener
 
